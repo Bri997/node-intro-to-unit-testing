@@ -1,0 +1,1 @@
+const fizzbuzzer = require('.fizzbuzzer.js');
